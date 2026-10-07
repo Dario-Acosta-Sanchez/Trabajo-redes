@@ -1,0 +1,4 @@
+jugador1 1234
+jugador2 1234
+jugador3 1234
+jugador4 1234
